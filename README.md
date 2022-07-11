@@ -1,4 +1,4 @@
-# yii2-sendgrid
+# yii2-sendgrid FROM WADESHULER
 Yii2 Mailer extension for SendGrid with batch mailing support. This extension is designed to replace them all! The only Yii2 SendGrid extension you will need!
 
 ---
