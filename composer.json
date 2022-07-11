@@ -13,7 +13,7 @@
     ],
     "support": {
         "issues": "https://github.com/wadeshuler/yii2-sendgrid/issues?state=open",
-        "source": "https://github.com/wadeshuler/yii2-sendgrid"
+        "source": "https://github.com/evermos/wadeshuler/"
     },
     "minimum-stability": "stable",
     "require": {
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wadeshuler\\sendgrid\\": "src"
+            "evermos\\sendgrid\\": "src"
         }
     }
 }
